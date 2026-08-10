@@ -40,7 +40,7 @@ class ContactApp extends React.Component {
   render() {
     return (
       <div className="contact-app">
-        <h1>Aplikasi Kontak</h1>
+        <h1>Aplikasi Kontak hebat</h1>
         <h2>Tambah Kontak</h2>
         <ContactInput addContact={this.onAddContactHandler} />
         <h2>Daftar Kontak</h2>
